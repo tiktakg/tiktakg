@@ -2,9 +2,10 @@
 
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiktakg&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tiktakg&theme=default)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=tiktakg&theme=white)](https://github.com/KnlnKS/leetcode-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiktakg&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tiktakg&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tiktakg&theme=github_dark)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=tiktakg&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 
 
